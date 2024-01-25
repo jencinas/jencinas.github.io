@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: "./"
+source: jencinas.github.io
 incremental: false
 highlighter: rouge
 gist:
