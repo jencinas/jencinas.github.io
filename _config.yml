@@ -1,13 +1,6 @@
-title: Javier Encinas
-description: Another personal website.
-lsi: false
-safe: true
-source: jencinas
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-theme: jekyll-theme-minimal
+title: myproject
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: jekyll-theme-cayman
+exclude: [vendor]
